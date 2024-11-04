@@ -19,5 +19,5 @@ Code and datafiles used in the AM10 course
 
 | Study Group   | SG Members           |Github ID                      |Github Repo for final project        | URL address for final project       |Date Added     |  
 |:--------------|:---------------------|:------------------------------------------------------|:-----------------------|:-------------------------------------|:-----------------------| 
-| 00     |Member x, member y |kostis-christodoulou |<https://github.com/>|<N/A>     | 2023-11-01 |
+| 01     |Sacha Khiroun, Alexandra Monina, Ameesha Dixit, Jialiang Sun, Vidhi Singhal, Evelyn Chen |saxhaxxlbs |[<https://github.com/>](https://github.com/saxhaxxlbs/impact-of-remote-work-mental-health)|https://github.com/saxhaxxlbs/impact-of-remote-work-mental-health     | 2024-11-04 |
 
